@@ -13,8 +13,10 @@ Low-level security, the defensive side. Learning how Windows executables
 really work - one byte at a time - so I can analyze what others only run.
 
 Building: [pe_tool](https://github.com/defensivearchitect/pe_tool) - a
-A command-line tool written in C that parses Windows PE (Portable Executable) files and reports their security features.
+from-scratch PE parser in C, built to stay safe on untrusted, malformed
 
 **Focus:** PE & Windows Internals . memory forensics . detection engineering . threat hunting
 
 **Learning now:** parser security . x86-64 assembly . reverse engineering
+
+
