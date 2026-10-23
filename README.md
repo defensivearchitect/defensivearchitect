@@ -17,4 +17,5 @@ from-scratch PE parser in C, built to stay safe on untrusted, malformed
 binaries (bounded reads, tested against hostile input).
 
 Focus: PE & Windows Internals - memory forensics - detection engineering - threat hunting
+
 Learning now: parser security - x86-64 assembly - reverse engineering
